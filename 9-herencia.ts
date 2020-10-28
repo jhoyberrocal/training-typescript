@@ -22,3 +22,5 @@ let snake = new Snake("Serpiente", 11);
 
 snake.isBig();
 console.log(snake.t);
+
+//Clases en typescript documentación https://www.typescriptlang.org/docs/handbook/classes.html
